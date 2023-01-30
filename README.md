@@ -11,10 +11,11 @@ will be electronics, robotics and computer vision.
 - 👷‍♀️ I'm working as a Software Developer and Data Scientist in Copenhagen
 - 🌱 I’m currently learning a lot about Robotics and Model Predictive Control
 
-![alt text](https://github.com/ES0R/ES0R/blob/main/image.jpg?raw=true)
+![lmao](https://user-images.githubusercontent.com/58563157/215502071-96bd09d2-e22e-4068-b972-fb598979cea0.jpg)
 
 ## 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ES0R&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ES0R&theme=dark&background=000000)](https://git.io/streak-stats)
