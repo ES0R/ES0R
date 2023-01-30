@@ -8,7 +8,6 @@ I'm a student at DTU in the Autonomous Systems master programme. Currently, part
 
 
 | <a href="https://github.com/ES0R/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ES0R&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ES0R's github stats" /></a> 
-
 | <a href="https://github.com/ES0R/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ES0R&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
