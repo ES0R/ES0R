@@ -8,8 +8,9 @@ I'm a student at DTU in the Autonomous Systems master programme. Currently, part
 
 
 If you don't do commit messages like this, you better up your game.
-![lmao](https://user-images.githubusercontent.com/58563157/215502071-96bd09d2-e22e-4068-b972-fb598979cea0.jpg)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58563157/215502071-96bd09d2-e22e-4068-b972-fb598979cea0.jpg" width="650" height="270">
+</p>
 
 <!---
 ES0R/ES0R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
