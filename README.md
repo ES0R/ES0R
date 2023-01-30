@@ -4,10 +4,12 @@ I'm a student at DTU in the Autonomous Systems master programme. Currently, part
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ES0R&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ES0R&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+| <a href="https://github.com/ES0R/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ES0R&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ES0R's github stats" /></a> | <a href="https://github.com/ES0R/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ES0R&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 If you don't do commit messages like this, you better up your game.
 ![lmao](https://user-images.githubusercontent.com/58563157/215502071-96bd09d2-e22e-4068-b972-fb598979cea0.jpg)
