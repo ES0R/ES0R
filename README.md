@@ -3,12 +3,7 @@
 I'm a student at DTU in the Autonomous Systems master programme. Currently, part of DanSTAR's software team that make the software for our bi-liquid rockets. Also a developer engineer for ZenzeTech where tasks vary from data science to prototyping debugging. My passion is with technology especially microcontroller systems and robotics. This profile will contain repositories for personal projects.
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ES0R&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ES0R&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-| <a href="https://github.com/ES0R/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ES0R&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ES0R's github stats" /></a> 
-| <a href="https://github.com/ES0R/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ES0R&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/ES0R/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ES0R&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="ES0R's github stats" /></a> | <a href="https://github.com/ES0R/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ES0R&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
