@@ -6,7 +6,7 @@ I'm a student at DTU in the Autonomous Systems master programme. Currently, part
 | <a href="(https://git.io/streak-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ES0R&theme=dark&background=000000)" alt="ES0R's github stats" /></a> | <a href="https://github.com/ES0R/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ES0R&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-If you don't do commit messages like this, you better up your game.
+If you don't write commit messages like this, don't talk to me.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58563157/215502071-96bd09d2-e22e-4068-b972-fb598979cea0.jpg" width="650" height="270">
 </p>
