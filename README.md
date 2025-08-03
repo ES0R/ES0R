@@ -1,19 +1,39 @@
-# ES0R
+# 👋 Hi, I'm Emil Ramovic
 
-I'm a student at DTU in the Autonomous Systems master programme. Currently, part of DanSTAR's software team that make the software for our bi-liquid rockets. My passion is with technology especially microcontroller systems and robotics. This profile will contain repositories for personal projects and coursework.
+🔧 Embedded Software @ GN Nord | MSc in Autonomous Systems  
+🛰 Robotics • ROS2 • Computer Vision • Drones • Open Source  
 
-## Stats
-| <a href="(https://git.io/streak-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ES0R&theme=dark&hide_border=true&background=000000)" alt="ES0R's github stats" /></a> | <a href="https://github.com/ES0R/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ES0R&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
+<!-- Typing intro -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Engineer+%2B+Rocketry+%2B+Robotics;Code%2C+Simulate%2C+Fly+🛩️)
 
-<!---
-If you don't write commit messages like this, don't talk to me.
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/58563157/215502071-96bd09d2-e22e-4068-b972-fb598979cea0.jpg" width="650" height="270">
-</p>
+## 📊 Stats & Activity
+| ![Streak](https://github-readme-streak-stats.herokuapp.com?user=ES0R&theme=dark&hide_border=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ES0R&layout=compact&theme=dark&hide_border=true) |
+|:--:|:--:|
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=ES0R&theme=algolia)
 
+![Profile views](https://komarev.com/ghpvc/?username=ES0R&color=blue)
 
-ES0R/ES0R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🔧 Tools & Languages
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=robotframework)
+![PX4](https://img.shields.io/badge/-PX4-black?style=flat&logo=px4)
+
+---
+
+## 🧠 I’m currently learning
+- PX4 middleware extensions  
+- Realtime Linux systems  
+- Advanced control for robotics  
+
+---
+
+<!-- WakaTime stats -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!-- Snake contribution animation -->
+![snake gif](https://github.com/ES0R/ES0R/blob/output/github-contribution-grid-snake.svg)
