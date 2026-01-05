@@ -6,10 +6,6 @@
 
 <!-- Typing intro -->
 
-## 📊 Stats & Activity
-| ![Streak](https://github-readme-streak-stats.herokuapp.com?user=ES0R&theme=dark&hide_border=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ES0R&layout=compact&theme=dark&hide_border=true) |
-|:--:|:--:|
-
 ---
 
 ## 🔧 Tools & Languages
